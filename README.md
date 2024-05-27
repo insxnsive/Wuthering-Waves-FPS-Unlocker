@@ -27,7 +27,7 @@
 ### **Q:** *Why is it not working?*
 - **A:** **Depends on the error you got,** send me a message on **Discord** (flertar) or open an **Error thread on Github.**
 
-  ### **Q:** *Is it a virus?**
+### **Q:** *Is it a virus?**
 - **A:** **No,** and if you're a developer, read the source code of the Batch files on the *fpsUnlock60.bat* and the *fpsUnlock.py*.
 
 ### **Q:** *Does it adds more FPS to the game?*
