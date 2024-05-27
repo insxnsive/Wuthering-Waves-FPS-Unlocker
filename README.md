@@ -27,26 +27,23 @@
 ### **Q:** *Why is it not working?*
 - **A:** **Depends on the error you got,** send me a message on **Discord** (flertar) or open an **Error thread on Github.**
 
-
-### **Q:** *Why does it install something called "[SQLite](https://www.sqlite.org/)" after using it?*
-- **A:** **SQLite** is a C-language library that grants the user the capability of modifying *.db* files, WW FPS Unlocker uses SQLite to modify the options file of the game: *LocalStorage.db
-  
+  ### **Q:** *Is it a virus?**
+- **A:** **No,** and if you're a developer, read the source code of the Batch files on the *fpsUnlock60.bat* and the *fpsUnlock.py*.
 
 ### **Q:** *Does it adds more FPS to the game?*
 - **A:** **No,** this application only changes the default FPS Limit of the game.
-  
 
-### **Q:** *Does it optimize the game?*
-- **A:** **No, it only changes the default FPS Limit of the game,** even though I pretend making a version that optimizes your game.
-  
+### **Q:** *Why does it install something called "[SQLite](https://www.sqlite.org/)" after using it?*
+- **A:** **SQLite** is a C-language library that grants the user the capability of modifying *.db* files, WW FPS Unlocker uses SQLite to modify the options file of the game: *LocalStorage.db
 
 ### **Q:** *Can I delete the "[SQLite](https://www.sqlite.org/)" after using WW FPS Unlocker?*
 - **A:** **Sure,** but it'll always appear again after each use.
 
+### **Q:** *Does it optimize the game?*
+- **A:** **No, it only changes the default FPS Limit of the game,** even though I pretend making a version that optimizes your game.
 
 ### **Q:** *Why is there no option above 120 FPS?*
 - **A:** I'm still finding a way to uncap above 120 FPS, so for now, it can only go for 120 FPS Max.
-
 
 ### **Q:** *Why does it stop working after I change the graphics?*
 - **A:** Since the WW FPS Unlocker modifies the game's properties via file, everytime you change your game's graphics, it will reset to 60 FPS Max. So, select your desired graphic options and then use the WW FPS Unlocker.
