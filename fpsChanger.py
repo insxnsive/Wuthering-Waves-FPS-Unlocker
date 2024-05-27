@@ -43,7 +43,7 @@ def main():
         return
 
     fps_limit_label = ttk.Label(root, text="Select your FPS/Monitor Refresh Rate Limit")
-    fps_limit_label.grid(column=0, row=0, padx=10, pady=10, columnspan=3)  # Span across 3 columns
+    fps_limit_label.grid(column=0, row=0, padx=10, pady=10, columnspan=3)
 
     fps_60_button = ttk.Button(root, text="FPS 60", command=lambda: run_batch_file(60))
     fps_60_button.grid(column=0, row=1, padx=10, pady=10)
