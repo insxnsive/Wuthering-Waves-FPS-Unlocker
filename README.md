@@ -1,5 +1,5 @@
 
-# <img src="https://play-lh.googleusercontent.com/ameFGPYH-qhOSxdsSA_fA54I4Ch-eO8y7Pj4x6W6ejQkvKbhVjCehKlPerBY9X2L8ek" width="32" height="32"/> Wuthering Waves FPS Unlocker
+# <img src="https://play-lh.googleusercontent.com/ameFGPYH-qhOSxdsSA_fA54I4Ch-eO8y7Pj4x6W6ejQkvKbhVjCehKlPerBY9X2L8ek" width="28" height="28"/> Wuthering Waves FPS Unlocker
 
 <hr>
 
